@@ -1,6 +1,6 @@
 # Squares 🟦
 
-Lo hice en la universidad como un applet (bazzinga) y ahora le doy vida nuevamente como una animación.
+Lo hice en la universidad como un applet (bazinga) y ahora le doy vida nuevamente como una animación.
 
 **Compilar**
 
