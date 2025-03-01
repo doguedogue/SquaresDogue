@@ -9,16 +9,10 @@ mkdir bin
 javac -d "bin" src\com\doguedogue\squares\*.java
 ```
 
-**Windows**
+**Ejecutar**
 
 ```
-java -cp bin/;. com.doguedogue.squares.AppSquares
-```
-
-**Linux**
-
-```
-java -cp bin/:. com.doguedogue.squares.AppSquares
+java -cp bin/. com.doguedogue.squares.AppSquares
 ```
 
 <img src="images/squares.gif" alt="drawing" width="800"/>
